@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Luma — 7-Day Clarity Ritual</title>
+  <desc id="desc">A sample announcement visual for the Luma astrology app's seven-day clarity ritual.</desc>
+  <rect width="1600" height="1000" fill="#171426"/>
+  <circle cx="1280" cy="190" r="310" fill="#6252a7" opacity=".48"/>
+  <circle cx="1340" cy="160" r="180" fill="#d9c7ff" opacity=".22"/>
+  <circle cx="1160" cy="640" r="240" fill="#f5c3a8" opacity=".16"/>
+  <path d="M0 810C310 690 430 910 740 790s420-140 860 10v200H0Z" fill="#251d3d"/>
+  <g fill="none" stroke="#f5e8d7" stroke-width="3" opacity=".6">
+    <circle cx="1240" cy="190" r="106"/>
+    <path d="M1240 45v290M1095 190h290M1138 88l204 204M1342 88l-204 204"/>
+  </g>
+  <text x="110" y="140" fill="#f5e8d7" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="8">LUMA / SAMPLE INVITATION</text>
+  <text x="110" y="430" fill="#f5e8d7" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">7-DAY</text>
+  <text x="110" y="535" fill="#f5e8d7" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">CLARITY</text>
+  <text x="110" y="640" fill="#f5c3a8" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">RITUAL</text>
+  <text x="112" y="750" fill="#d9c7ff" font-family="Arial, Helvetica, sans-serif" font-size="27">One short reflection for a decision already on your mind.</text>
+  <text x="112" y="808" fill="#d9c7ff" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="3">NAME THE FEELING / NOTICE THE CHOICE / FIND THE NEXT STEP</text>
+  <text x="112" y="910" fill="#f5e8d7" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">LUMA • NOT ANOTHER HOROSCOPE FEED</text>
+</svg>

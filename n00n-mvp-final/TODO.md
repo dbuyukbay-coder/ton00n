@@ -1,0 +1,21 @@
+# n00n MVP outcomes
+
+- [x] The first screen asks what the user is building; the idea is captured before the brand name, without asking for a marketing goal.
+- [x] The second context step asks for the brand or project name and keeps it attached to the interview, research checkpoint, direction, production pack, and Daily Desk.
+- [x] The third context step asks the founder, in their own words, what they believe is different; n00n treats this as a claim to examine, not a confirmed market fact.
+- [x] The interview presents exactly one question at a time with a short reflection, a visible reason, a compact thread, and an open-ended progression rail.
+- [x] The adaptive question layer selects the next question by missing marketing coverage and decision impact, not by a fixed question count. It covers audience situation, current behaviour, consequence, discovery, readiness, alternatives, trust, barriers, constraints, and evidence.
+- [x] When a response supports competing explanations, n00n exposes a hypothesis ledger and asks a counterfactual question to separate them. The privacy-versus-incremental-value example is implemented and tested.
+- [x] The Luma shortcut preloads a clearly labelled sample interview fixture for a fast judge demo; this fixture does not define the live interview stopping rule.
+- [x] The research checkpoint separates founder claim, category signal, behaviour gap, known evidence, observed evidence, unresolved evidence, and pending scan state.
+- [x] Research source cards show the official source URL, supporting quote, checked date, and scan scope.
+- [x] The direction screen presents meaningful alternatives. The user must choose a direction before production opens.
+- [x] The selected direction persists through the direction screen, plan, action list, production pack, and Daily Desk. Luma’s second direction has its own nightly-practice plan and action set.
+- [x] The production pack contains usable materials rather than tasks to write later: invitation copy, one-page copy, run-of-show, privacy boundary, visual asset, and measurement/review prompts. Text materials are editable and persisted.
+- [x] The Daily Desk shows the selected direction and move, opens a review workspace, accepts an outcome in the participant’s own words, and saves continue / adjust / reconsider decisions.
+- [x] Sample results are clearly labelled as fixtures, not live market data; the review UI keeps alternative explanations and unresolved evidence visible.
+- [x] Server-side LLM calls receive brandName, idea, founderDifference, and interview history; outputs are parsed with deterministic evidence-aware fallback and never expose credentials in browser code.
+- [x] `pnpm check`, production build, route manifest, endpoint smoke tests, browser flow checks, and console checks pass for the current prototype.
+- [ ] Apify Website Content Crawler and focused search are connected for live, source-backed category scans inside the product flow.
+- [ ] fal.ai is connected after move selection for previewable and downloadable creative generation.
+- [ ] The Daily Desk uses real provider metrics or user-owned integrations instead of manual/demo outcomes.
